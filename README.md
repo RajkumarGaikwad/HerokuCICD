@@ -1,6 +1,6 @@
 # heroku-ci-demo
 
-A continuous integration demo app using Node.js and [Express 4](http://expressjs.com/).
+A continuous integration demo app using Node.js and [Express 4](http://expressjs.com/)
 
 This application supports the [Getting Started on Heroku with Node.js](https://devcenter.heroku.com/articles/getting-started-with-nodejs) article - check it out.
 
